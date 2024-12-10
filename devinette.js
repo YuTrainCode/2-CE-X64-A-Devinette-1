@@ -12,6 +12,7 @@ while (!deviner) {
         alert("Jeu annulé. Merci d'avoir joué !");
         break;
     }
+    
 
     const nombre = parseInt(reponse, 10);
 
