@@ -1,4 +1,3 @@
-// Jeu de devinette de nombre
 alert("Bienvenue au jeu de devinette de nombre !");
 const nombreMystere = Math.floor(Math.random() * 100) + 1; // Nombre entre 1 et 100
 let tentative = 0;
